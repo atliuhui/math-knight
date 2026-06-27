@@ -1,0 +1,22 @@
+[
+  { "key": "L01", "name": "凑五法", "op": "make_five" },
+  { "key": "L02", "name": "凑十法", "op": "make_ten" },
+  { "key": "L03", "name": "一位数加法（不进位）", "op": "one_add_one_no_carry" },
+  { "key": "L04", "name": "一位数加法（进位）", "op": "one_add_one_carry" },
+  { "key": "L05", "name": "一位数减法", "op": "one_sub_one" },
+  { "key": "L06", "name": "两位数加一位数", "op": "two_add_one" },
+  { "key": "L07", "name": "两位数减法（不退位）", "op": "two_sub_one_no_borrow" },
+  { "key": "L08", "name": "两位数减法（退位）", "op": "two_sub_one_borrow" },
+  { "key": "L09", "name": "两位数加两位数", "op": "two_add_two" },
+  { "key": "L10", "name": "两位数减两位数", "op": "two_sub_two" },
+  { "key": "L11", "name": "乘法口诀", "op": "times_table_multiply" },
+  { "key": "L12", "name": "乘法口诀（除法）", "op": "times_table_divide" },
+  { "key": "L13", "name": "两位数乘一位数", "op": "two_multiply_one" },
+  { "key": "L14", "name": "除一位数取余数", "op": "one_digit_remainder" },
+  { "key": "L15", "name": "一位小数加法", "op": "one_decimal_add" },
+  { "key": "L16", "name": "一位小数减法", "op": "one_decimal_sub" },
+  { "key": "L17", "name": "两位小数加法", "op": "two_decimal_add" },
+  { "key": "L18", "name": "两位小数减法", "op": "two_decimal_sub" },
+  { "key": "L19", "name": "最大公因数", "op": "gcd" },
+  { "key": "L20", "name": "最小公倍数", "op": "lcm" }
+]

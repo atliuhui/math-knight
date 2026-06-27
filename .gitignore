@@ -11,6 +11,14 @@
 *.sln.docstates
 *.env
 
+# Godot
+.godot/
+.import/
+*.import
+export.cfg
+*.translation
+dist/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
